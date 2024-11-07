@@ -1,0 +1,966 @@
+[
+    {
+      "brandName": "Tata",
+      "modelSlug": "tiago"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "punch"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "tigor"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "altroz"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "tiago-nrg"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "yodha-pickup"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "tiago-ev"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "nexon"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "altroz-racer"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "punch-ev"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "tigor-ev"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "nexon-ev"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "harrier"
+    },
+    {
+      "brandName": "Tata",
+      "modelSlug": "safari"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "alto-k10"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "s-presso"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "alto-800-tour"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "celerio"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "super-carry"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "eeco"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "ignis"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "wagon-r-tour"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "wagon-r"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "swift"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "swift-dzire-tour"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "swift-dzire"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "baleno"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "fronx"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "brezza"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "ertiga"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "ciaz"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "ertiga-tour"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "xl6"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "jimny"
+    },
+    {
+      "brandName": "Maruti",
+      "modelSlug": "invicto"
+    },
+    {
+      "brandName": "Kia",
+      "modelSlug": "sonet"
+    },
+    {
+      "brandName": "Kia",
+      "modelSlug": "carens"
+    },
+    {
+      "brandName": "Kia",
+      "modelSlug": "seltos"
+    },
+    {
+      "brandName": "Kia",
+      "modelSlug": "ev6"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "glanza"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "taisor"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "rumion"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "hyryder"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "innova-hycross"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "innova-crysta"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "hilux"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "fortuner"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "fortuner-legender"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "camry"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "vellfire"
+    },
+    {
+      "brandName": "Toyota",
+      "modelSlug": "land-cruiser-300"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "grand-i10-nios"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "exter"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "aura"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "i20"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "venue"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "i20-n-line"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "verna"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "venue-n-line"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "alcazar"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "creta-n-line"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "kona"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "tucson"
+    },
+    {
+      "brandName": "Hyundai",
+      "modelSlug": "ioniq-5"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "bolero-maxi-truck-plus"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "xuv-3xo"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "bolero-pik-up-extra-strong"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "bolero-pik-up-extra-long"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "bolero"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "bolero-neo"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "bolero-camper"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "thar"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "bolero-neo-plus"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "scorpio"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "scorpio-n"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "xuv700"
+    },
+    {
+      "brandName": "Mahindra",
+      "modelSlug": "xuv400-ev"
+    },
+    {
+      "brandName": "Honda",
+      "modelSlug": "amaze"
+    },
+    {
+      "brandName": "Honda",
+      "modelSlug": "elevate"
+    },
+    {
+      "brandName": "Honda",
+      "modelSlug": "city"
+    },
+    {
+      "brandName": "Honda",
+      "modelSlug": "city-hybrid"
+    },
+    {
+      "brandName": "MG",
+      "modelSlug": "comet-ev"
+    },
+    {
+      "brandName": "MG",
+      "modelSlug": "astor"
+    },
+    {
+      "brandName": "MG",
+      "modelSlug": "hector"
+    },
+    {
+      "brandName": "MG",
+      "modelSlug": "hector-plus"
+    },
+    {
+      "brandName": "MG",
+      "modelSlug": "zs-ev"
+    },
+    {
+      "brandName": "MG",
+      "modelSlug": "gloster"
+    },
+    {
+      "brandName": "Skoda",
+      "modelSlug": "slavia"
+    },
+    {
+      "brandName": "Skoda",
+      "modelSlug": "kushaq"
+    },
+    {
+      "brandName": "Skoda",
+      "modelSlug": "kodiaq"
+    },
+    {
+      "brandName": "Skoda",
+      "modelSlug": "superb"
+    },
+    {
+      "brandName": "Jeep",
+      "modelSlug": "compass"
+    },
+    {
+      "brandName": "Jeep",
+      "modelSlug": "meridian"
+    },
+    {
+      "brandName": "Jeep",
+      "modelSlug": "wrangler"
+    },
+    {
+      "brandName": "Jeep",
+      "modelSlug": "grand-cherokee"
+    },
+    {
+      "brandName": "Renault",
+      "modelSlug": "kwid"
+    },
+    {
+      "brandName": "Renault",
+      "modelSlug": "triber"
+    },
+    {
+      "brandName": "Renault",
+      "modelSlug": "kiger"
+    },
+    {
+      "brandName": "Nissan",
+      "modelSlug": "magnite"
+    },
+    {
+      "brandName": "Nissan",
+      "modelSlug": "x-trail"
+    },
+    {
+      "brandName": "Volkswagen",
+      "modelSlug": "virtus"
+    },
+    {
+      "brandName": "Volkswagen",
+      "modelSlug": "taigun"
+    },
+    {
+      "brandName": "Volkswagen",
+      "modelSlug": "tiguan"
+    },
+    {
+      "brandName": "Citroen",
+      "modelSlug": "c3"
+    },
+    {
+      "brandName": "Citroen",
+      "modelSlug": "c3-aircross"
+    },
+    {
+      "brandName": "Citroen",
+      "modelSlug": "ec3"
+    },
+    {
+      "brandName": "Citroen",
+      "modelSlug": "c5-aircross"
+    },
+    {
+      "brandName": "Aston Martin",
+      "modelSlug": "dbx"
+    },
+    {
+      "brandName": "Aston Martin",
+      "modelSlug": "vantage"
+    },
+    {
+      "brandName": "Aston Martin",
+      "modelSlug": "db12"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "q3"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "a4"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "q3-sportback"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "a6"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "q5"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "s5-sportback"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "q7"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "e-tron"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "q8"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "rs5"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "q8-e-tron"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "q8-sportback-e-tron"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "a8-l"
+    },
+    {
+      "brandName": "Audi",
+      "modelSlug": "e-tron-gt"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "2-series"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "x1"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "3-series-gran-limousine"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "ix1"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "x3"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "i4"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "3-series"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "5-series"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "6-series"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "z4"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "x5"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "x4"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "m2"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "i5"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "x7"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "ix"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "m4-competition"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "7-series"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "i7"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "m8-coupe-competition"
+    },
+    {
+      "brandName": "BMW",
+      "modelSlug": "xm"
+    },
+    {
+      "brandName": "BYD",
+      "modelSlug": "atto-3"
+    },
+    {
+      "brandName": "BYD",
+      "modelSlug": "e6"
+    },
+    {
+      "brandName": "BYD",
+      "modelSlug": "seal"
+    },
+    {
+      "brandName": "Ferrari",
+      "modelSlug": "roma"
+    },
+    {
+      "brandName": "Ferrari",
+      "modelSlug": "f8-tributo"
+    },
+    {
+      "brandName": "Ferrari",
+      "modelSlug": "296-gtb"
+    },
+    {
+      "brandName": "Ferrari",
+      "modelSlug": "812"
+    },
+    {
+      "brandName": "Ferrari",
+      "modelSlug": "sf90-stradale"
+    },
+    {
+      "brandName": "Force",
+      "modelSlug": "gurkha"
+    },
+    {
+      "brandName": "Force",
+      "modelSlug": "gurkha-5-door"
+    },
+    {
+      "brandName": "Force",
+      "modelSlug": "urbania"
+    },
+    {
+      "brandName": "Isuzu",
+      "modelSlug": "d-max"
+    },
+    {
+      "brandName": "Isuzu",
+      "modelSlug": "s-cab"
+    },
+    {
+      "brandName": "Isuzu",
+      "modelSlug": "s-cab-z"
+    },
+    {
+      "brandName": "Isuzu",
+      "modelSlug": "hi-lander"
+    },
+    {
+      "brandName": "Isuzu",
+      "modelSlug": "v-cross"
+    },
+    {
+      "brandName": "Isuzu",
+      "modelSlug": "mu-x"
+    },
+    {
+      "brandName": "Jaguar",
+      "modelSlug": "f-pace"
+    },
+    {
+      "brandName": "Jaguar",
+      "modelSlug": "f-type"
+    },
+    {
+      "brandName": "Jaguar",
+      "modelSlug": "i-pace"
+    },
+    {
+      "brandName": "Lamborghini",
+      "modelSlug": "huracan-evo"
+    },
+    {
+      "brandName": "Lamborghini",
+      "modelSlug": "urus"
+    },
+    {
+      "brandName": "Lamborghini",
+      "modelSlug": "revuelto"
+    },
+    {
+      "brandName": "Land Rover",
+      "modelSlug": "discovery-sport"
+    },
+    {
+      "brandName": "Land Rover",
+      "modelSlug": "range-rover-evoque"
+    },
+    {
+      "brandName": "Land Rover",
+      "modelSlug": "range-rover-velar"
+    },
+    {
+      "brandName": "Land Rover",
+      "modelSlug": "defender"
+    },
+    {
+      "brandName": "Land Rover",
+      "modelSlug": "discovery"
+    },
+    {
+      "brandName": "Land Rover",
+      "modelSlug": "range-rover-sport"
+    },
+    {
+      "brandName": "Land Rover",
+      "modelSlug": "range-rover"
+    },
+    {
+      "brandName": "Lexus",
+      "modelSlug": "es"
+    },
+    {
+      "brandName": "Lexus",
+      "modelSlug": "nx"
+    },
+    {
+      "brandName": "Lexus",
+      "modelSlug": "rx"
+    },
+    {
+      "brandName": "Lexus",
+      "modelSlug": "ls"
+    },
+    {
+      "brandName": "Lexus",
+      "modelSlug": "lm"
+    },
+    {
+      "brandName": "Lexus",
+      "modelSlug": "lc-500h"
+    },
+    {
+      "brandName": "Lexus",
+      "modelSlug": "lx"
+    },
+    {
+      "brandName": "Lotus",
+      "modelSlug": "eletre"
+    },
+    {
+      "brandName": "Maserati",
+      "modelSlug": "ghibli"
+    },
+    {
+      "brandName": "Maserati",
+      "modelSlug": "grecale"
+    },
+    {
+      "brandName": "Maserati",
+      "modelSlug": "levante"
+    },
+    {
+      "brandName": "Maserati",
+      "modelSlug": "quattroporte"
+    },
+    {
+      "brandName": "Maserati",
+      "modelSlug": "gran-turismo"
+    },
+    {
+      "brandName": "Maserati",
+      "modelSlug": "gran-cabrio"
+    },
+    {
+      "brandName": "Mclaren",
+      "modelSlug": "gt"
+    },
+    {
+      "brandName": "Mclaren",
+      "modelSlug": "750s"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "a-class-limousine"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "gla"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "amg-gla-35"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "c-class"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "glb"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "eqa"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "eqb"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "glc"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "e-class"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "amg-a-45-s"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "gle"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "amg-c43"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "amg-e-53-cabriolet"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "gls"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "eqe-suv"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "eqs"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "s-class"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "amg-gle-53"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "amg-sl"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "amg-eqs"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "g-class"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "maybach-s-class"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "amg-gt-4-door-coupe"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "amg-s-63"
+    },
+    {
+      "brandName": "Mercedes-Benz",
+      "modelSlug": "maybach-gls"
+    },
+    {
+      "brandName": "Mini",
+      "modelSlug": "3-door"
+    },
+    {
+      "brandName": "Mini",
+      "modelSlug": "cooper-s"
+    },
+    {
+      "brandName": "Mini",
+      "modelSlug": "cooper-countryman"
+    },
+    {
+      "brandName": "Mini",
+      "modelSlug": "cooper-se"
+    },
+    {
+      "brandName": "Mini",
+      "modelSlug": "countryman-electric"
+    },
+    {
+      "brandName": "PMV",
+      "modelSlug": "eas-e"
+    },
+    {
+      "brandName": "Porsche",
+      "modelSlug": "macan"
+    },
+    {
+      "brandName": "Porsche",
+      "modelSlug": "macan-ev"
+    },
+    {
+      "brandName": "Porsche",
+      "modelSlug": "cayenne"
+    },
+    {
+      "brandName": "Porsche",
+      "modelSlug": "cayenne-coupe"
+    },
+    {
+      "brandName": "Porsche",
+      "modelSlug": "718"
+    },
+    {
+      "brandName": "Porsche",
+      "modelSlug": "panamera"
+    },
+    {
+      "brandName": "Porsche",
+      "modelSlug": "taycan"
+    },
+    {
+      "brandName": "Porsche",
+      "modelSlug": "911"
+    },
+    {
+      "brandName": "Pravaig",
+      "modelSlug": "defy"
+    },
+    {
+      "brandName": "Rolls-Royce",
+      "modelSlug": "cullinan"
+    },
+    {
+      "brandName": "Rolls-Royce",
+      "modelSlug": "ghost"
+    },
+    {
+      "brandName": "Rolls-Royce",
+      "modelSlug": "spectre"
+    },
+    {
+      "brandName": "Rolls-Royce",
+      "modelSlug": "phantom"
+    },
+    {
+      "brandName": "Strom Motors",
+      "modelSlug": "r3"
+    },
+    {
+      "brandName": "Volvo",
+      "modelSlug": "xc40-recharge"
+    },
+    {
+      "brandName": "Volvo",
+      "modelSlug": "c40-recharge"
+    },
+    {
+      "brandName": "Volvo",
+      "modelSlug": "s90"
+    },
+    {
+      "brandName": "Volvo",
+      "modelSlug": "xc60"
+    },
+    {
+      "brandName": "Volvo",
+      "modelSlug": "xc-90"
+    }
+]
